@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/bin/Debug/net6.0/first
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/bin/Debug/net6.0/first.deps.json
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/bin/Debug/net6.0/first.runtimeconfig.json
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/bin/Debug/net6.0/first.dll
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/bin/Debug/net6.0/first.pdb
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/first.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/first.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/first.AssemblyInfo.cs
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/first.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/first.dll
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/refint/first.dll
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/first.pdb
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/first.genruntimeconfig.cache
+/Users/macbook/Desktop/coding/geekbrains/csharp/first/obj/Debug/net6.0/ref/first.dll
